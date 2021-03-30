@@ -9,4 +9,12 @@ This is a simple AR application made in Unity as a university project. The model
 
 **Target image is found in images folder**
 
+## Render images
+
+### Render images with black background
+![Render image 1](/images/render1.png)
+![Render image 2](/images/render2.png)
+### Render images with HDR probes
+![Render image 5](/images/render5.png)
+![Render image 3](/images/render3.png)
 
