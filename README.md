@@ -1,6 +1,7 @@
 # The Pena Palace AR app
 
-This is a simple AR application made in Unity as a university project. The model of The Pena Palace is made in Blender. 
+This is a simple AR application made in Unity as a university project. The model shown is made in Blender and it is the model of *The Pena Palace*.
+> The Pena Palace is a Romanticist castle in the municipality of Sintra, situated just a few kilometers away from Lisbon, Portugal.
 
 ## Instructions for use
 
